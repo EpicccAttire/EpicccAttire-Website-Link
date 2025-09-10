@@ -12,7 +12,7 @@ I'm developing a private self-hosted application to manage my Etsy shop listings
 
 This app does not collect, store, or share any personal data from Etsy users. 
 
-All Etsy API interactions are limited to managing listings only on my own Etsy shop (https://www.etsy.com/shop/EpicccAttire) (such as managing prices and mockups).
+All Etsy API interactions are limited to managing listings only on my own Etsy shop (https://www.etsy.com/shop/EpicccAttire) (such as managing title, description, price, mockups, etc.).
 
 I do not access, store, or distribute any third-party Etsy data. No user credentials are collected or used.
 
